@@ -1,5 +1,5 @@
 dependencies {
-    api project(':context-api')
+    implementation project(':context-api')
     testImplementation 'junit:junit:4.12'
 }
 
